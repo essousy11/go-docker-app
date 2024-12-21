@@ -1,0 +1,7 @@
+go-docker-app/
+├── static/
+│   ├── about-docker.html
+│   ├── how-docker-works.html
+├── main.go
+├── go.mod
+├── Dockerfile
